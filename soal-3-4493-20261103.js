@@ -1,0 +1,1 @@
+const nilaiSiswa = [75, 88, 78, 90, 85];
